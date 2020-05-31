@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kenneth SF\\OneDrive - Estudiantes ITCR\\TEC\\2020\\I Semestre\\Análisis de Algoritmos\\Tareas\\QueensPuzzle\\QueensPuzzle\\QueensPuzzle.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kenneth SF\\OneDrive - Estudiantes ITCR\\TEC\\2020\\I Semestre\\Análisis de Algoritmos\\Tareas\\QueensPuzzle\\QueensPuzzle\\QueensPuzzle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kenneth SF\\OneDrive - Estudiantes ITCR\\TEC\\2020\\I Semestre\\Análisis de Algoritmos\\Tareas\\QueensPuzzle\\QueensPuzzle\\QueensPuzzle.csproj",
+        "projectName": "QueensPuzzle",
+        "projectPath": "C:\\Users\\Kenneth SF\\OneDrive - Estudiantes ITCR\\TEC\\2020\\I Semestre\\Análisis de Algoritmos\\Tareas\\QueensPuzzle\\QueensPuzzle\\QueensPuzzle.csproj",
+        "packagesPath": "C:\\Users\\Kenneth SF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kenneth SF\\OneDrive - Estudiantes ITCR\\TEC\\2020\\I Semestre\\Análisis de Algoritmos\\Tareas\\QueensPuzzle\\QueensPuzzle\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kenneth SF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

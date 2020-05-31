@@ -1,0 +1,11 @@
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\bin\Debug\netcoreapp2.0\QueensPuzzle.deps.json
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\bin\Debug\netcoreapp2.0\QueensPuzzle.runtimeconfig.json
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\bin\Debug\netcoreapp2.0\QueensPuzzle.runtimeconfig.dev.json
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\bin\Debug\netcoreapp2.0\QueensPuzzle.dll
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\bin\Debug\netcoreapp2.0\QueensPuzzle.pdb
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\obj\Debug\netcoreapp2.0\QueensPuzzle.csprojAssemblyReference.cache
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\obj\Debug\netcoreapp2.0\QueensPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\obj\Debug\netcoreapp2.0\QueensPuzzle.AssemblyInfoInputs.cache
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\obj\Debug\netcoreapp2.0\QueensPuzzle.AssemblyInfo.cs
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\obj\Debug\netcoreapp2.0\QueensPuzzle.dll
+C:\Users\Kenneth SF\OneDrive - Estudiantes ITCR\TEC\2020\I Semestre\Análisis de Algoritmos\Tareas\QueensPuzzle\QueensPuzzle\obj\Debug\netcoreapp2.0\QueensPuzzle.pdb
